@@ -1,0 +1,1 @@
+import{a as e,c as t,d as n,l as r,o as i,s as a,t as o,u as s}from"./index-aHOUX8t6.js";var c={data(){return{msg:`Hello World!`}},mounted(){},methods:{}};function l(o,c,l,u,d,f){let p=r(`el-text`);return t(),e(`section`,null,[a(p,null,{default:s(()=>[i(` Dashboard `+n(d.msg),1)]),_:1})])}var u=o(c,[[`render`,l]]);export{u as default};
